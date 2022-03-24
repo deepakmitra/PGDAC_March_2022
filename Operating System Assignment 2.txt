@@ -1,0 +1,7 @@
+Assignment 2
+1. Create one user name: User1 through your main user
+2.  Login to user1: create one shell script called firstshell.sh
+3. Execute this script 
+4. Create second user name: User2
+5. Execute that firstshell.sh by using user2, observe the output 
+6. Permit user2 to execute firstshell.sh
